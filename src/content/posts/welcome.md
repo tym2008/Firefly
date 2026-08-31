@@ -1,6 +1,6 @@
 ---
 title: 欢迎来到 Firefly
-published: 2024-01-01
+published: 2026-08-31
 pinned: true
 description: 欢迎来到这里，这是一个记录技术探索、生活片段与灵感思考的个人网站。
 tags: [欢迎, Firefly]
