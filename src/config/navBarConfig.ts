@@ -63,16 +63,16 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			LinkPresets.Booknav,
 
 			// 哔哩哔哩追番
-			LinkPresets.Bilibili,
+			//LinkPresets.Bilibili,
 
 			// 番组计划
-			LinkPresets.Bangumi,
+			//LinkPresets.Bangumi,
 
 			// VNDB
-			LinkPresets.VNDB,
+			//LinkPresets.VNDB,
 
 			// MyAnimeList
-			LinkPresets.MAL,
+			//LinkPresets.MAL,
 		],
 	});
 
